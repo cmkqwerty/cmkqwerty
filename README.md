@@ -12,8 +12,8 @@
 <a href="https://www.instagram.com/cmkqwerty/">
   <img align="left" alt="Cem's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://thesecurityresearcher.blogspot.com/">
-  <img align="left" alt="Cem's Blogspot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/blogger.svg" />
+<a href="https://cemeke.com/">
+  <img align="left" alt="Cem's Blogspot" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/wordpress.svg" />
 </a>
 
 <br/>
@@ -22,12 +22,12 @@
 Web Application Security | Mobile Application Security | Malware Analysis | Reverse Engineering | Binary Exploitation
 
 ## About :sunglasses:
-Security Researcher
+Security Researcher & Developer
 
 ## Languages and Tools :fire:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://github.com/laravel/art/blob/master/laravel-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
