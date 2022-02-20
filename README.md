@@ -2,5 +2,5 @@ security enthusiast
 
 Communication:
 
-https://cemeke.com
-cem@cemeke.com
+https://cmkqwerty.github.io
+cemeke10@gmail.com
